@@ -1,0 +1,1 @@
+A data analyses that looks at the pricing of New York green taxis 2025 and determines the price/kilometer for different parts of the month. these are shown in plots of which can be conlcuded that rush hour commutes are overall on average most expensive, and that commutes around the summer vacation are also cheeper on average
