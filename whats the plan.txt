@@ -1,0 +1,24 @@
+newyork taxi vraagt verschillende bedragen tijdens normale tijden vs de spits uren, 
+verder vragen ze ook nog een prijs op afhankelijk van afstand, maar ook van tijd.
+de onderzoeks vraag is, wanneer verdient newyork taxi het meeste/kilometer, ofwel, wanneer is de klant het duurst uit.
+en hoe groot is dit verschil eigenlijk?
+we kijken naar spits uren vs normale tijden
+maar ook naar iedere maand, om te zien of er in de winter meer verdiend wordt, omdat er meer met taxi wordt gereisd in plaats van te voet ( hypopthese )
+
+
+
+mean is gemiddelde
+stdev is hoe erg wijkt alle data af van het gemiddelde
+uncertainty is stdev/len(mean) vertelt me meer over de zekerheid van het gemiddelde ( stdev / lenmean**0.5 ), met subsampling wordt dit 
+sowieso al vermeden
+
+
+2025_Green_Taxi_Trip_Data_20260930
+
+
+
+voor uncertainty
+doe voor bijvoorbeeld januari opdelenb in gropejs van honderd
+pak de meanb van zon gropeje
+het data punt is de mean van de means
+pafk de stdev van alle means van alle groepjes en je krijgt de sigma uncertainty
