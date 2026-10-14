@@ -39,17 +39,17 @@ __--> python packages used in the code include__
 - time
 
 ### Setup
-__1. Clone the repository__
+**__1. Clone the repository__**
 
    git clone https://github.com/JoepGaming/Project_New_york_Taxi_data_analyses.git
 
    cd Physics-coding-project
    
-__2. install external packages__
+**__2. install external packages__**
    
    run pip install -r requirements.txt in the terminal to install al external packages needed to run the programm
    
-__3. upload data to programm__
+**__3. upload data to programm__**
 
    (This step may be skipped because the data is already available in the data_og folder)
 
@@ -58,19 +58,19 @@ __3. upload data to programm__
    save the data in the data_og folder as:
    2025_Green_Taxi_Trip_Data_20260930.csv
 
-__4. run programm__
+**__4. run programm__**
    
    in visual studio code (or other used programm), navigate to the file called controll_desk.py and run this file. you should see a option menu pop up in the terminal after a few seconds. Navigate to the option preform_analyses using the arrow keys. next press enter. the analyses should now begin
 
-__5. were to find the results__
+**__5. were to find the results__**
 
    When the programm says "data analysis process complete", navigate to the data_new folder. In here, a filtered version of the input data, and 7 plots are found of which 5 can be used for answering the research questions
 
-__6. cleanup (optional)__
+**__6. cleanup (optional)__**
 
    when the analyses is finished, you wil be represented with the option menu again. If you want to clean up your device from al created files, navigate to the option "delete created files" and press enter, after a question to check if you are sure you want to delete al created files, the programm wil delete al created files from your device. if the programm could not succeed at this, it wil tell in the terminal
 
-__7. stop programm__
+**__7. stop programm__**
 
    Finally to stop the programm, in the option menu, navigate to "stop programm" and press enter. the programm wil now be stopped
 
